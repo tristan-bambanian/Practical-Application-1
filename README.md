@@ -42,6 +42,7 @@ Looking at only the coupons for Coffee Houses, **49.63%** of coffee coupons were
 Then I wondered if the driving direction would have any impact for the drivers going to work or home and found:
 - Drivers going to work with coupons for coffee shops in the same direction had a 56.93% acceptance rate vs 32.91% for coffee shops in the other direction.
 - Drivers heading home with coupons for coffee shops in the same direction had a 47.12% acceptance rate vs 30.38% for coffee shops in the other direction.
+
 I also wanted to see if the coupon expiration dates and gender of the driver made any difference:
 - 1 day expiration coupons had an acceptance rate of 58.06%.
 - 2 hour expiration coupons had an acceptance rate of 42.91%.
@@ -49,9 +50,9 @@ I also wanted to see if the coupon expiration dates and gender of the driver mad
 - Females had an acceptance rate of 49.11%.
 
 #### Actionable Items (Coffee House Coupons)
-The coffee house business owners should definitely focus on drivers who have no urgent place to be as they had much higher acceptance rates, and for the drivers going to work or home, they should try to deliver the coupon to the drivers as they are going in the same direction of their destination as this showed much higher acceptance rates.
+The coffee house business owners should definitely focus on drivers who have no urgent place to be as they had much higher acceptance rates, and for the drivers going to work or home, they should try to deliver the coupon to the drivers as they are going in the same direction of their destination since this showed much higher acceptance rates.
 
-I would also recommend making all coupons have a 1 day expiration rather than 2 hours since the 1 day expiration coupons showed much higher acceptance rates. I wouldn't worry about the gender of the driver since there wasn't a significantly higher acceptance rate between males and females.
+I would also recommend making all coupons have a 1 day expiration rather than 2 hours since the 1 day expiration coupons showed much higher acceptance rates. I wouldn't worry about the gender of the driver since there wasn't a significantly higher acceptance rate between males or females.
 
 ### Next Steps and Recommendations
 There are definitely a lot more insights than can be extracted from this data but my immediate recommendations to the bar and coffee house business owners would be:
@@ -62,4 +63,5 @@ There are definitely a lot more insights than can be extracted from this data bu
   - Prioritize coupons to drivers who have no urgent place to be
   - For drivers going to work or home, deliver the coupons to them when they are driving in the same direction as their destination
   - Make all coupons have a 1 day expiration
-I think some good next steps would be investigate the columns regarding the distance between the driver and the venue for the coupon to see if that has a significant impact on whether a driver will accept a coupon or not. It would also be nice to make the Yes/No accept the coupon answers more granular the next time this survey data is collected, so that answers "Right away" and "Later, before the coupon expires" are not both marked as a 1 in the data.
+
+I think some good next steps would be investigate the columns regarding the distance between the driver and the venue for the coupon to see if that has a significant impact on whether a driver will accept a coupon or not. It would also be nice to make the Yes/No "accept the coupon" answers more granular the next time this survey data is collected, so that answers "Right away" and "Later, before the coupon expires" are not both marked as 1 in the data to allow differentiation between these two answers.

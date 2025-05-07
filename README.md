@@ -7,7 +7,7 @@ The first stage involved cleaning the data. Most of the data was fairly clean, b
 ### EDA
 The cleaned dataset consisted of 12,079 rows and 25 columns. Overall, out of the 12,079 coupons offered **56.93%** were accepted. In terms of distribution of coupon types, 
 
-![Coupons](images/Most Coupons Were For A Coffee House.png)
+![Coupons](images/Most_Coupons_Were_For_A_Coffee_House.png)
 ### Findings
 
 ### Next Steps and Recommendations

@@ -11,6 +11,7 @@ The cleaned dataset consisted of 12,079 rows and 25 columns. Overall, out of the
 
 The surveys also included a temperature column that was either 30, 55, or 80 degrees Fahrenheit depending on the weather when the coupon was issued. The image below shows that most coupons were offered and accepted when the weather was warm at 80 degrees Fahrenheit.
 
+![Temperature](images/More_Coupons_Were_Offered_and_Accepted_When_It_Was_Warm_Weather.png)
 
 ### Findings
 

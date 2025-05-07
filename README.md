@@ -25,7 +25,7 @@ Looking at only the coupons for Bars, the overall coupon acceptance rate was **4
 #### Actionable Items (Bar Coupons)
 The bar business owners should focus their coupons on drivers who go to bars more than once a month since they are much more likely to accept the bar coupons. This appeared to be the strongest variable affecting the acceptance rate.
 
-Other variables like having a passenger in the car and age of the driver seemed to also have an impact on the acceptance rate, but not as strongly as how many times the driver went to bars in a month (decreased to 68.98% when age was filtered to be older than 25, then up to 71.43% when the data wsa filtered to check for a passenger other than a kid in the car).
+Other variables like having a passenger in the car and age of the driver seemed to also have an impact on the acceptance rate, but not as strongly as how many times the driver went to bars in a month (decreased to 68.98% when age was filtered to be older than 25, then up to 71.43% when the data was filtered to check for a passenger other than a kid in the car).
 
 Occupation and marital status didn't appear to have much of an impact on the acceptance rate as we can interestingly see the same acceptance rate of 71.43% when occupation was not farming, fishing, or forestry vs when the driver wasn't a widow.
 

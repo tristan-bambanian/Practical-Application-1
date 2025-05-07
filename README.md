@@ -1,5 +1,5 @@
 # Will the Customer Accept the Coupon
-[View Jupyter Notebook](Practical%Application%5.1%Will%the%Customer%Accept%the%Coupon.ipynb)
+[View Jupyter Notebook](PracticalApplication5.1WilltheCustomerAccepttheCoupon.ipynb)
 ### Problem Statement
 The local bars and coffee shops have asked me for help in exploring this coupon dataset to gain a better understanding of the characteristics of customers who accepted a coupon they received versus those that did not, and to use these insights to help them make better decisions about what they should focus on when sending out their coupons.
 ### Data Cleaning

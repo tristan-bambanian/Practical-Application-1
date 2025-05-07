@@ -15,4 +15,6 @@ The surveys also included a temperature column that was either 30, 55, or 80 deg
 
 ### Findings
 
+![Destination](images/Higher_Coupon_Acceptance_Rate_When_Driver_Has_No_Urgent_Place_To_Be.html)
+
 ### Next Steps and Recommendations
